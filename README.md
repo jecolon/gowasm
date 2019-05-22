@@ -20,3 +20,5 @@ go get github.com/jecolon/ws
 ws
 ```
 Then you can go to http://localhost:8080 in your browser to see the demo. Click the "Run" button to begin.
+
+NOTE: wasm_exec.js and wasm_exec.html originals can be found in your Go installation directory under the misc/wasm subdirectory. Thay should be used with the Go version they came with.
